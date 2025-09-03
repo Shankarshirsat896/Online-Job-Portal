@@ -64,5 +64,5 @@ The **Online Job Portal** is a comprehensive web application designed to streaml
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/online-job-portal.git
+   git clone https://github.com/Shankarshirsat896/Online-Job-Portal.git
    cd online-job-portal
